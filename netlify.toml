@@ -2,4 +2,9 @@
 
 [[edge_functions]]
 function = "hello"
-path = "/test"
+path = "/hello"
+
+
+[[edge_functions]]
+function = "server"
+path = "/server"
